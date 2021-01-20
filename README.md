@@ -3,7 +3,8 @@
 **StudentID** : 61070053
 
 **Name** : Natchaya Loratanachaiyong
-> *King mongkut's institute of technology ladkrabang*
+> *[IT @ KMITL](https://www.it.kmitl.ac.th/)*
 ```
-print("hello world")
+print("Hello world, IT @ KMITL")
 ```
+[![Alt text](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
